@@ -1,0 +1,25 @@
+.project-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
+}
+.project-card h5 {
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 0.4rem;
+}
+.project-card p {
+    font-size: 0.9rem;
+    color: #6c757d;
+    padding: 0.4rem;
+}
+.project-card a {
+    font-size: 0.9rem;
+    padding: .5rem;
+
+}
+
+footer i{
+    color: black;
+}
