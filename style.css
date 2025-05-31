@@ -23,3 +23,9 @@
 footer i{
     color: black;
 }
+
+.error-message{
+    color: red;
+    font-family: 1rem;
+    margin-top: 0.4rem;
+}
